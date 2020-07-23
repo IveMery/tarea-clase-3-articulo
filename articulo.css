@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;500;600;700;800&family=Montserrat:wght@300;400;500;600;700;800;900&family=Roboto:wght@100;400;500;700;900&display=swap');
+
+h1{
+    font-size: 80px;
+    font-family: roboto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.frase{
+    color:gray ;
+    font-family: mulish;
+}
+
+p{
+    font-family: montserrat;
+    font-weight: 500;
+    color: #00000;
+
+
+}
